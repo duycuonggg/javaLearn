@@ -1,2 +1,0 @@
-sapxepthoigian.sapXep
-sapxepthoigian.SapXepThoiGian
